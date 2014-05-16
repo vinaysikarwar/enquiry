@@ -168,6 +168,4 @@ class WTC_Enquiry_Adminhtml_EnquiryController extends Mage_Adminhtml_Controller_
 		}
 		return;
 	}
-	
-	// code ended 
 }
